@@ -4,7 +4,7 @@
 body {
   background: #fff;
   color: #666666;
-  font-family: "Nunito", monospace;
+  font-family: "Nunito", sans-serif;
 }
 
 a {
@@ -24,7 +24,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Mulish", monospace;
+  font-family: "Mulish", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Nunito", monospace;
+  font-family: "Nunito", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
